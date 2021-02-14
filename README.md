@@ -5,4 +5,4 @@ A flutter application that calculates the difference between two dates given by 
 ## Screenshots
 
 ![main](/ss1.png?raw=true "Main Page")
-![results](/ss1.png?raw=true "Results Page")
+![results](/ss2.png?raw=true "Results Page")
