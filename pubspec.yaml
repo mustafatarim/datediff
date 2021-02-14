@@ -1,0 +1,34 @@
+name: datediff
+description: An application that shows the difference between two dates 
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  http: ^0.12.0+1
+  json_annotation: ^3.0.0
+  provider: ^4.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.0.0
+  json_serializable: ^3.2.0
+
+flutter:
+  uses-material-design: true
+
+
+  
+  
+  
+  
+  
+  
